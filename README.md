@@ -1,3 +1,5 @@
+https://github.com/olvint/CM4-NAS-MiniPCIE
+
 # CM4 NAS Solution
 
 This Compute Module 4 carrier board design exposes a subset of the CM4's interfaces, including its single PCIe 2.0 lane to accept an external SATA controller card.
